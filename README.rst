@@ -6,9 +6,11 @@ Documentation necessary for Laia's phd
 - extract open pose features
 - clean ghosts
 - words are our glosses 
+
   - normalization
   - interpolation
   -  2d-> 3d
+  
 - visualize features
 - from h5 to json-per-video format
 
