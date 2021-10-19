@@ -7,7 +7,7 @@ It pulls the `Open Food Facts database <https://world.openfoodfacts.org/>`_ and 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
-Check out :doc:''workingwithhow2sign' section for that step documentation.
+Check out :doc:`workingwithhow2sign` section for that step documentation.
 
 .. note::
 
