@@ -1,0 +1,11 @@
+site_name: Documentation about Laia's phd
+
+nav:
+  - Inicio: 'index.md'
+  - Working with calcula: 'calcula.md'
+  - Extracting Openpose: 'openpose.md'
+  - Extracting MediaPipe: 'mediapipe.md'
+  - Running Progressive Transformers: 'progressivetransformer.md'
+  - Running sign2vec: 'sign2vec.md'
+
+theme: readthedocs
