@@ -1,7 +1,7 @@
 site_name: Documentation about Laia's phd
 
 nav:
-  - Inicio: 'index.md'
+  - Introduction: 'introduction.md'
   - Working with calcula: 'calcula.md'
   - Extracting Openpose: 'openpose.md'
   - Extracting MediaPipe: 'mediapipe.md'
